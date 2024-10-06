@@ -10,7 +10,7 @@ class MySQLStressTest(HttpUser):
         self.conn = mysql.connector.connect(
             user='groupB',
             password='csck542groupB!',
-            host='192.168.1.32',
+            host='192.168.1.31',
             database='csck542_ema_group'
         )
         self.cursor = self.conn.cursor()

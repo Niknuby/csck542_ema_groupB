@@ -5,7 +5,7 @@ import pytest
 DB_CONFIG = {
     'user': 'groupB',
     'password': 'csck542groupB!',
-    'host': '192.168.1.32',
+    'host': '192.168.1.31',
     'database': 'csck542_ema_groupB'
 }
 

@@ -15,11 +15,11 @@
                 "enableSsl": "Disabled"
             },
             "previewLimit": 50,
-            "server": "192.168.1.32",
+            "server": "192.168.1.31",
             "port": 3306,
             "driver": "MySQL",
             "name": "CSCK542",
-            "database": "Database",
+            "database": "csck542_ema_group_b",
             "username": "groupB",
             "askForPassword": true
         }
